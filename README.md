@@ -10,7 +10,7 @@ help you implement LazyColumn, navigation and theming in Jetpack Compose.
 ### 1- Clone the repository:
 ```
 git clone https://github.com/Ahado00/NewsReaderApp.git
-cd news-app
+cd NewsReader
 ```
 ### 2- Open the project:
 
